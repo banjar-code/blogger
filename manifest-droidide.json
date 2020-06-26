@@ -1,0 +1,38 @@
+{
+  "name": "Droidide.com",
+  "short_name": "Droidide",
+  "start_url": "https://www.droidide.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Android, Blogging, Gadget, Tips, Tutorial.",
+  "icons": [{
+    "src": "https://cdn.statically.io/favicons/droidide.com?cache=31556952",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.statically.io/favicons/droidide.com?cache=31556952",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.statically.io/favicons/droidide.com?cache=31556952",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.statically.io/favicons/droidide.com?cache=31556952",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.statically.io/favicons/droidide.com?cache=31556952",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.statically.io/favicons/droidide.com?cache=31556952",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.statically.io/favicons/droidide.com?cache=31556952",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
